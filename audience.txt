@@ -5,3 +5,6 @@ WHO IS THIS COURSE FOR
 
 ===========================================================
 This course is for anyone who wants to learn Git. 
+
+
+edited for squash
