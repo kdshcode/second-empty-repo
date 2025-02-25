@@ -1,1 +1,2 @@
-newpasswd
+passwd
+ new keyword is deleted and this line is added by the master
