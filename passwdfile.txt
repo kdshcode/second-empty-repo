@@ -1,2 +1,4 @@
 passwd
  new keyword is deleted and this line is added by the master
+ewpasswd
+somethis is deleted and new this line is added by bugfix/pass branch
